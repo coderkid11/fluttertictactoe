@@ -1,2 +1,3 @@
-# fluttertictactoe
-Tic Tac Toe in Flutter!
+# tictactoe
+
+A new Flutter project.
